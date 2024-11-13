@@ -1,0 +1,11 @@
+1. wikipedia_en_active_editors = d
+
+2. wikipedia_en_edited_pages_conoc = d
+3. wikipedia_en_edited_pages = d
+
+4. wikipedia_en_editors_filtered = d
+5. wikipedia_en_edits_filtered = d
+
+6. wikipedia_en_page_views_legacy = d
+7. wikipedia_en_page_views = d
+8. wikipedia_en_page2date = d
